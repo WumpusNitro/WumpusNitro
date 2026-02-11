@@ -1,5 +1,5 @@
 ## 👋 Hiya! I am 2Art.
-### Here is some stuff that i do for a living (i don't get paid for it :3)
+### Here is some stuff that i do for a living (i get paid for some of the stuff it :3)
 - I make websites for people (Some are open-source some are not)
 - I design stuff.
 
